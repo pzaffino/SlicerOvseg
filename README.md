@@ -16,3 +16,4 @@ To install the extension in 3D Slicer:
 
 The license used is APACHE 2.0.
 
+![Image](https://raw.githubusercontent.com/pzaffino/SlicerOvseg/refs/heads/main/SlicerOvseg_screenshot.png)
